@@ -3,28 +3,28 @@
     {
       "title": "紙飛行機飛ばし世界選手権で世界記録が更新されました",
       "desc": "昨日国内某所で紙飛行機を後ろに飛ばしてしまった結果バグが発生し地球を一周という記録が更新されました。",
-      "updateAt": "1925/2/27",
+      "updatedAt": "1925/2/27",
       "createdAt": "1912/4/30",
       "image": "https://thumb.photo-ac.com/c9/c91534c061e9f11b3a1ac4cf6daf8611_t.jpeg"
     },
     {
       "title": "砂漠で鯖を捌くバクがバク宙しました",
       "desc": "関係者によると砂漠で鯖をさばいているバクがバク宙していたのは事実とのことです",
-      "updateAt": "1932/5/4",
+      "updatedAt": "1932/5/4",
       "createdAt": "1912/2/12",
       "image": "https://i.pinimg.com/originals/81/40/32/814032204311143c79d6005edb206589.jpg"
     },
     {
       "title": "エンジニア動物園から猿が脱走しました",
       "desc": "昨日エンジニア動物園から猿の脱走が確認されました。詳細については現在確認厨とのことです。",
-      "updateAt": "2012/6/22",
+      "updatedAt": "2012/6/22",
       "createdAt": "1998/12/31",
       "image": "https://www.sozailab.jp/db_img/sozai/11874/thumb_c8798b98989da1d595ad5feaf494f68c.png"
     },
     {
       "title": "シリコンバレーでシリコン製のバレーボールを発見",
       "desc": "一昨日シリコンバレーでサッカーをしていたところボールがシリコン製のバレーボルだったことに気がつきました。原因は未だわかっておりません",
-      "updateAt": "2002/6/5",
+      "updatedAt": "2002/6/5",
       "createdAt": "1895/6/4",
       "image": "https://thumb.photo-ac.com/e6/e60c0684b264c09b2087b2a6003f70a3_t.jpeg"
     }
@@ -33,28 +33,28 @@
     {
       "title": "jQuery学園とReact高校が交流会を行いました",
       "desc": "昨日jQuery学園とReact高校がお互いの知見を深めるため話し合いを行いました。話し合いの際React高校からは時代はSPAだと猛抗議があり、jQuery学園と口論になっていました。",
-      "updateAt": "2020/8/21",
+      "updatedAt": "2020/8/21",
       "createdAt": "2013/8/12",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiEFgK5MqjqfovnQmeDWCOkRlWc3zpHNKaw&usqp=CAU"
     },
     {
       "title": "株式会社Vue２年連続黒字",
       "desc": "株式会社Vueの研鑽報告会で2年連続で黒字であることが判明しました。",
-      "updateAt": "2021/12/12",
+      "updatedAt": "2021/12/12",
       "createdAt": "2021/12/12",
       "image": "https://kawadev.net/wp-content/uploads/2019/01/Vue.js_Logo_1200.png"
     },
     {
       "title": "エンジニア動物園から猿が脱走しました",
       "desc": "昨日エンジニア動物園から猿の脱走が確認されました。詳細については現在確認厨とのことです。",
-      "updateAt": "2012/6/22",
+      "updatedAt": "2012/6/22",
       "createdAt": "1998/12/31",
       "image": "https://www.sozailab.jp/db_img/sozai/11874/thumb_c8798b98989da1d595ad5feaf494f68c.png"
     },
     {
       "title": "HTML20が発表されました",
       "desc": "W3CからHTML19に変わるHTML20が正式に発表されました。これにより宇宙船デバイス『ファントム』でremが使えるようになったとのことです。",
-      "updateAt": "2052/6/5",
+      "updatedAt": "2052/6/5",
       "createdAt": "2045/3/6",
       "image": "https://www.shoshinsha-design.com/wp-content/uploads/2016/10/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2016-10-19-23.56.48-760x460.png"
     }
@@ -63,7 +63,7 @@
     {
       "title": "HTML20が発表されました",
       "desc": "W3CからHTML19に変わるHTML20が正式に発表されました。これにより宇宙船デバイス『ファントム』でremが使えるようになったとのことです。",
-      "updateAt": "2052/6/5",
+      "updatedAt": "2052/6/5",
       "createdAt": "2045/3/6",
       "image": "https://www.shoshinsha-design.com/wp-content/uploads/2016/10/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2016-10-19-23.56.48-760x460.png"
     }
